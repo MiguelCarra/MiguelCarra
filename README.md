@@ -52,7 +52,7 @@ Graduado en <b>Ingeniería de Telecomunicaciones</b> por la Universidad de Valla
 ### 📰 Apariciones en Prensa
 
 - **El Mundo de Castilla y León**: [Reportaje sobre mi TFG "El psicólogo inteligente de Twitch"](https://www.linkedin.com/feed/update/urn:li:activity:7255490212095516672/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7255490212095516672%29).
-- **Radio NAcional de España - Castilla y León**: ["Entrevista sobre la novedad del TFG"](https://www.linkedin.com/feed/update/urn:li:activity:7279160955152781312/).
-- **Universidad de Valladolid**: [Reconocimiento al TFG en las redes sociales de la UVa](https://www.linkedin.com/feed/update/urn:li:activity:7255490212095516672/).
+- **Radio NAcional de España - Castilla y León**: ["Entrevista sobre el pionero TFG en el ámbito Twitch"](https://www.linkedin.com/feed/update/urn:li:activity:7279160955152781312/).
+- **Universidad de Valladolid**: [Reconocimiento al TFG en las redes sociales de la UVa](https://www.linkedin.com/posts/miguel-carralero-lanchares_telecomunicaciones-agradecido-nuevoscomienzos-activity-7280610368018665472-v22L?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACj8O24B_O6b5zf4V3XgVcmZExeZbmqeHuA).
 
 
