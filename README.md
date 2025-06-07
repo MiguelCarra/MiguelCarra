@@ -30,8 +30,29 @@ Graduado en <b>Ingeniería de Telecomunicaciones</b> por la Universidad de Valla
 
 ---
 
+### 📌 Mis Repositorios Destacados
+
+<p align="center">
+  <a href="https://github.com/MiguelCarra/tle-satellite-classifier-python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelCarra&repo=tle-satellite-classifier-python&theme=dracula&hide_border=true" />
+  <a href="https://github.com/MiguelCarra/radar-pulse-simulation-matlab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelCarra&repo=radar-pulse-simulation-matlab&theme=dracula&hide_border=true" />
+  </a>
+  <a href="https://github.com/MiguelCarra/deepfake-detection-matlab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelCarra&repo=deepfake-detection-matlab&theme=dracula&hide_border=true" />
+  </a>
+      </a>
+  <a href="https://github.com/MiguelCarra/sdn-grpc-network-management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelCarra&repo=sdn-grpc-network-management&theme=dracula&hide_border=true" />
+  </a>
+</p>
+
+---
+
 ### 📰 Apariciones en Prensa
 
 - **El Mundo de Castilla y León**: [Reportaje sobre mi TFG "El psicólogo inteligente de Twitch"](https://www.linkedin.com/feed/update/urn:li:activity:7255490212095516672/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7255490212095516672%29).
 - **Radio NAcional de España - Castilla y León**: ["Entrevista sobre la novedad del TFG"](https://www.linkedin.com/feed/update/urn:li:activity:7279160955152781312/).
 - **Universidad de Valladolid**: [Reconocimiento al TFG en las redes sociales de la UVa](https://www.linkedin.com/feed/update/urn:li:activity:7255490212095516672/).
+
+
