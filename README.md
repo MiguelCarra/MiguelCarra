@@ -14,7 +14,7 @@ Graduado en <b>Ingeniería de Telecomunicaciones</b> por la Universidad de Valla
 <p>
 - 🔭 Mi objetivo es desarrollar mi carrera en <b>comunicaciones avanzadas, móviles y satelitales</b>, y la <b>ingeniería en radiofrecuencia (RF)</b>.
 <br><br>
-- 🎓 Mi TFG sobre <b>Machine Learning en Twitch</b> en <a href="https://scholar.google.com/citations?user=sD8bCbQAAAAJ&hl=es"><b>Google Scholar</b></a>.
+- 🎓 TFG sobre <b>Machine Learning en Twitch</b> en <a href="https://scholar.google.com/citations?user=sD8bCbQAAAAJ&hl=es"><b>Google Scholar</b></a>.
 <br><br>
 - 🔗 Conecta conmigo en <a href="https://www.linkedin.com/in/miguel-carralero-lanchares/"><b>LinkedIn</b></a>.
 <br><br>
@@ -30,16 +30,8 @@ Graduado en <b>Ingeniería de Telecomunicaciones</b> por la Universidad de Valla
 
 ---
 
-### 🚀 Proyectos Recientes del Máster
-
-- 🛰️ [**tle-satellite-classifier-python**](https://github.com/MiguelCarra/tle-satellite-classifier-python): Clasificación de satélites y debris orbital usando datos TLE y Machine Learning (SVM, RF, XGBoost).
-- 📡 [**radar-pulse-simulation-matlab**](https://github.com/MiguelCarra/radar-pulse-simulation-matlab): Simulación de un radar pulsado con cálculo de parámetros y visualización PPI/A-Scope en MATLAB.
-- 🤖 [**deepfake-detection-matlab**](https://github.com/MiguelCarra/deepfake-detection-matlab): Detección de DeepFakes utilizando MATLAB y Redes Neuronales Convolucionales.
-- 🌐 [**sdn-grpc-network-management**](https://github.com/MiguelCarra/sdn-grpc-network-management): Gestión de redes SDN con gRPC/gNMI para telemetría y visualización de datos.
-
----
-
 ### 📰 Apariciones en Prensa
 
-- **El Mundo de Castilla y León**: [Reportaje sobre mi TFG "El psicólogo inteligente de Twitch"](https://www.linkedin.com/feed/update/urn:li:activity:7279160955152781312/).
+- **El Mundo de Castilla y León**: [Reportaje sobre mi TFG "El psicólogo inteligente de Twitch"](https://www.linkedin.com/feed/update/urn:li:activity:7255490212095516672/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7255490212095516672%29).
+- **Radio NAcional de España - Castilla y León**: ["Entrevista sobre la novedad del TFG"](https://www.linkedin.com/feed/update/urn:li:activity:7279160955152781312/).
 - **Universidad de Valladolid**: [Reconocimiento al TFG en las redes sociales de la UVa](https://www.linkedin.com/feed/update/urn:li:activity:7255490212095516672/).
