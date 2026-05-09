@@ -22,30 +22,8 @@ Graduado en <b>Ingeniería de Telecomunicaciones</b> por la Universidad de Valla
 <br>
 </p>
 </td>
-<td valign="middle" width="35%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelcarra&show_icons=true&locale=es&layout=compact&theme=dracula&hide_border=true" alt="miguelcarra-langs" />
-</td>
 </tr>
 </table>
-
----
-
-### 📌 Mis Repositorios Destacados
-
-<p align="center">
-  <a href="https://github.com/MiguelCarra/tle-satellite-classifier-python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelCarra&repo=tle-satellite-classifier-python&theme=dracula&hide_border=true" />
-  <a href="https://github.com/MiguelCarra/radar-pulse-simulation-matlab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelCarra&repo=radar-pulse-simulation-matlab&theme=dracula&hide_border=true" />
-  </a>
-  <a href="https://github.com/MiguelCarra/deepfake-detection-matlab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelCarra&repo=deepfake-detection-matlab&theme=dracula&hide_border=true" />
-  </a>
-      </a>
-  <a href="https://github.com/MiguelCarra/sdn-grpc-network-management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelCarra&repo=sdn-grpc-network-management&theme=dracula&hide_border=true" />
-  </a>
-</p>
 
 ---
 
