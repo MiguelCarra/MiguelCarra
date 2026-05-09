@@ -9,16 +9,15 @@
 <tr>
 <td valign="top" width="65%">
 <p>
-Graduado en <b>Ingeniería de Telecomunicaciones</b> por la Universidad de Valladolid y estudiante del <b>Máster</b> en la misma especialidad en la Universidad Autónoma de Madrid.
+🛰️ Ingeniero de Telecomunicaciones | Junior CNS/ATM Engineer (Programa IRIS - ESA)
 </p>
 <p>
-- 🔭 Mi objetivo es desarrollar mi carrera en <b>comunicaciones avanzadas, móviles y satelitales</b>, y la <b>ingeniería en radiofrecuencia (RF)</b>.
+🎓 Estudiante de Máster en Ing. de Telecomunicaciones (UAM)</b>.
 <br><br>
-- 🎓 TFG sobre <b>Machine Learning en Twitch</b> en <a href="https://scholar.google.com/citations?user=sD8bCbQAAAAJ&hl=es"><b>Google Scholar</b></a>.
+💻 Stack: Python, C, Matlab, JavaScript, Linux y Redes (IP, MPLS)</b></a>.
 <br><br>
-- 🔗 Conecta conmigo en <a href="https://www.linkedin.com/in/miguel-carralero-lanchares/"><b>LinkedIn</b></a>.
-<br><br>
-- 📫 Contáctame en <b>miguel.carralero.lanchares@gmail.com</b>.
+🚀 Apasionado por las comunicaciones espaciales, SATCOM y RF.<br><br>
+📫 Contáctame en <b>miguel.carralero.lanchares@gmail.com</b>.
 <br>
 </p>
 </td>
